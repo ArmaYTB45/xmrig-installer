@@ -16,6 +16,7 @@ After the script, please use :
 - cd build
 
 for end : ./xmrig -o rx.unmineable.com:3333 -a rx -k -u [Your crypto]:[Your wallet adress].[Your name workers]
+
 Example : ./xmrig -o rx.unmineable.com:3333 -a rx -k -u ZEC:t1fh8qVjeF46k5xC4sW3cZK7qJ1ZDS.Rigamd
 
 Thanks❤
